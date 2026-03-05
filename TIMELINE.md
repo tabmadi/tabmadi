@@ -14,11 +14,11 @@
 - **Mar 2021**: Entered first romantic relationship
 - **Nov 2020**: Started development of a housing platform
 - **Jun 2017**: Joined the Science and Technology Park
+- **Jan 2012**: Founded first startup
 - **Sep 2011**: Began university studies
-- **Jan 2010**: Founded first startup
-- **Apr 2008**: Undertook the first freelance project
-- **Aug 2007**: Began teaching computer skills
-- **Jun 2006**: Started first internship
-- **Sep 2005**: Enrolled in high school
+- **Apr 2010**: Undertook the first freelance project
+- **Aug 2008**: Began teaching computer skills
+- **Jun 2007**: Started first internship
+- **Sep 2006**: Enrolled in high school
 - **Sep 1998**: Began primary education
 - **Mar 1992**: Born
